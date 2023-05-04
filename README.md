@@ -1,5 +1,5 @@
 # Installation
-- scripts folder contains all of the code to make this app
+- scripts folder contains all of the code that we have written to develop this app
 - In unitypckg file have added drive link 
   - click on d drive link ,install the packg
   - drop it in your unit project
